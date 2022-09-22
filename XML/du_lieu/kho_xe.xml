@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach_xe>
+  <xe_may>
+    <ten_xe>AB0001</ten_xe>
+    <chieu_dai>1901</chieu_dai>
+    <chieu_rong>687</chieu_rong>
+    <chieu_cao>1115</chieu_cao>
+    <bien_so>51L1-93218</bien_so>
+    <mau_sac>Đỏ đen</mau_sac>
+    <gia_nhap>39900000</gia_nhap>
+    <gia_ban>44200000</gia_ban>
+    <hang_xe>HONDA</hang_xe>
+    <ngay_san_xuat>2/9/2014</ngay_san_xuat>
+    <xuat_xu>Việt Nam</xuat_xu>
+    <so_may>AB654321</so_may>
+    <so_khung>AB123456</so_khung>
+    <so_km_trung_binh_tren_nam>30000</so_km_trung_binh_tren_nam>
+    <phan_khoi>125</phan_khoi>
+    <loai_xe_may>tay_ga</loai_xe_may>
+    <gia_ban_da_tinh_thue>50388000</gia_ban_da_tinh_thue>
+	<hinh_xe>ab-do-den.jpg</hinh_xe>
+  </xe_may>
+  <xe_hoi>
+    <ten_xe>CV0001</ten_xe>
+    <chieu_dai>4525</chieu_dai>
+    <chieu_rong>1755</chieu_rong>
+    <chieu_cao>1450</chieu_cao>
+    <bien_so>51L1-12345</bien_so>
+    <mau_sac>Bạc`</mau_sac>
+    <gia_nhap>871868000</gia_nhap>
+    <gia_ban>969000000</gia_ban>
+    <hang_xe>HONDA</hang_xe>
+    <ngay_san_xuat>2/9/2015</ngay_san_xuat>
+    <xuat_xu>Việt Nam</xuat_xu>
+    <so_may>CV654321</so_may>
+    <so_khung>CV123456</so_khung>
+    <so_km_trung_binh_tren_nam>300000</so_km_trung_binh_tren_nam>
+    <ma_luc>152</ma_luc>
+    <loai_xe_hoi>xe_xang_dau</loai_xe_hoi>
+    <gia_ban_da_tinh_thue>1550400000</gia_ban_da_tinh_thue>
+	<hinh_xe>civic-2015.jpg</hinh_xe>
+  </xe_hoi>
+  <xe_may>
+    <ten_xe>Kawasaki Z1000</ten_xe>
+    <chieu_dai>2200</chieu_dai>
+    <chieu_rong>560</chieu_rong>
+    <chieu_cao>1150</chieu_cao>
+    <bien_so>51A5-15915</bien_so>
+    <mau_sac>xanh lá</mau_sac>
+    <gia_nhap>240000000</gia_nhap>
+    <gia_ban>300000000</gia_ban>
+    <hang_xe>kawasaki</hang_xe>
+    <ngay_san_xuat>11/2015</ngay_san_xuat>
+    <xuat_xu>nhật bản</xuat_xu>
+    <so_may>KW65432</so_may>
+    <so_khung>KW12345</so_khung>
+    <so_km_trung_binh_tren_nam>50000</so_km_trung_binh_tren_nam>
+    <phan_khoi>1000</phan_khoi>
+    <loai_xe_may>xe_so</loai_xe_may>
+    <gia_ban_da_tinh_thue>330000000</gia_ban_da_tinh_thue>
+	<hinh_xe>kawasaki-z1000.png</hinh_xe>
+  </xe_may>
+  <xe_hoi>
+    <ten_xe>lamborghini aventer</ten_xe>
+    <chieu_dai>4200</chieu_dai>
+    <chieu_rong>2000</chieu_rong>
+    <chieu_cao>1500</chieu_cao>
+    <bien_so>51A5-45678</bien_so>
+    <mau_sac>nâu lông chuột</mau_sac>
+    <gia_nhap>22000000000</gia_nhap>
+    <gia_ban>44000000000</gia_ban>
+    <hang_xe>lamborghini</hang_xe>
+    <ngay_san_xuat>11/2015</ngay_san_xuat>
+    <xuat_xu>Ý</xuat_xu>
+    <so_may>LB87654</so_may>
+    <so_khung>LB45678</so_khung>
+    <so_km_trung_binh_tren_nam>500000</so_km_trung_binh_tren_nam>
+    <ma_luc>700</ma_luc>
+    <loai_xe_hoi>xe_xang_dau</loai_xe_hoi>
+    <gia_ban_da_tinh_thue>70400000000</gia_ban_da_tinh_thue>
+	<hinh_xe>lamborghini-aventer.jpg</hinh_xe>
+  </xe_hoi>
+  <xe_hoi>
+    <ten_xe>kia morning 2015</ten_xe>
+    <chieu_dai>3500</chieu_dai>
+    <chieu_rong>1800</chieu_rong>
+    <chieu_cao>1750</chieu_cao>
+    <bien_so>51A5-11111</bien_so>
+    <mau_sac>đỏ</mau_sac>
+    <gia_nhap>150000000</gia_nhap>
+    <gia_ban>280000000</gia_ban>
+    <hang_xe>kia</hang_xe>
+    <ngay_san_xuat>8/2015</ngay_san_xuat>
+    <xuat_xu>trung quốc</xuat_xu>
+    <so_may>KI51515</so_may>
+    <so_khung>KI15151</so_khung>
+    <so_km_trung_binh_tren_nam>300000</so_km_trung_binh_tren_nam>
+    <ma_luc>200</ma_luc>
+    <loai_xe_hoi>xe_xang_dau</loai_xe_hoi>
+    <gia_ban_da_tinh_thue>448000000</gia_ban_da_tinh_thue>
+    <hinh_xe>kia-morning-2015.png</hinh_xe>
+  </xe_hoi>
+</danh_sach_xe>

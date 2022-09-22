@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /www/Core/Simple_route/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^dashboard$ index.php
+RewriteRule ^(.+)$ index.php?page=$1
+RewriteRule ^(.+)/(.+)$ index.php?page=$1&id=$2

@@ -1,0 +1,31 @@
+Bài them:
+
+	Đối tượng Sinh vật:
+		Thuộc tính:
+			+ tên khoa học
+			+ thuộc loài nào
+			+ hình thức sinh sản (sinh sản vô tính, sinh sản hữu tính, sinh sản lưỡng tính)
+			+ hình ảnh
+			+ tỷ lệ sinh sản (đẻ bao nhiêu con/ 1 lần / bao nhiêu thời gian)
+			+ mô tả
+		
+		Phương thức:
+			+ in thông tin sinh vật
+			+ tinh số lượng con có thể có trên 1 năm
+			
+	Đối tượng Động vật kế thừa Sinh vật:
+		Thuộc tính:
+			+ Tốc độ di chuyển (m/s)
+			+ hình thức di chuyển
+		
+		Phương thức:
+			+ tính quãng đường di chuyển trên 1 ngày
+			
+			
+	Đối tượng Thực vật kế thừa Sinh vật:
+		Thuộc tính:
+			+ Tốc độ sản sinh Oxi (mililit khí/ s)
+			+ Loại lá
+		
+		Phương thức:
+			+ tính lít khí Oxi trên 1 năm

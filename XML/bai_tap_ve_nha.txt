@@ -1,0 +1,9 @@
+// Bài tập về nhà
+
+// 1 - Kiểm tra dữ liệu đầu vào
+
+// 2 - cho ẩn hiện thông tin giữa xe máy và xe hơi
+
+// 3 - thêm hình cho thông tin xe (form, xml, class)
+
+// 4 - khi rê chuột vào 1 xe trên danh sách thì hiển thị một div chứa thông tin xe đầy đủ

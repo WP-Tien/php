@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<danh_sach>
+	<hoc_vien ho_ten="Nguyễn Xuân Hùng" ngay_sinh="11/8/2016" dia_chi="Trần Hưng Đạo" dien_thoai="0909090909" />
+	<hoc_vien ho_ten="Trần Đức Quỳnh" ngay_sinh="15/10/2016" dia_chi="Huyền Trân Công Chúa" dien_thoai="0123456789" />
+	<hoc_vien ho_ten="Lê Trọng Nghĩa" ngay_sinh="20/1/2016" dia_chi="192 Hàm Tử" dien_thoai="0988888888" />
+	<hoc_vien ho_ten="Lý Trí Tài" ngay_sinh="1/1/1900" dia_chi="lầu 6 Hàm Tử" dien_thoai="0999999999" />
+</danh_sach>
